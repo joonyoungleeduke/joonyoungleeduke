@@ -11,7 +11,7 @@ I'm currently looking for somewhere to go once I graduate where I can learn a lo
 
 ### Professional Summary  
  
- I have industry experience working with focuses on both fullstack and backend, such as in API design/development and endpoint latency optimization within cloud environments and microservice architectures. I also have personal experience leading and architecting fullstack projects (see my *pinned* and *linkedin* for more info) and within them have also worked a lot in frontend, including publishing a search component on NPM for MongoDB Skunkworks 2022. Feel free to reach out to me at **joonyoung.lee.dev@gmail.com** for any inquiries or my resumé.
+ I have industry experience working with focuses on both fullstack and backend, such as in API design/development and endpoint latency optimization within cloud environments and microservice architectures. I also have personal experience leading and architecting fullstack projects (see my **pinned projects** and my **linkedin** below for more info) and within them have also worked a lot in frontend, including publishing a search component on NPM for MongoDB Skunkworks 2022. Feel free to reach out to me at **joonyoung.lee.dev@gmail.com** for any inquiries or my resumé.
 
   ### Find me on 
 <div>
