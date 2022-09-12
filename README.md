@@ -5,13 +5,7 @@
 
 ### Currently
  
-I'm currently a Duke CS senior and MongoDB SWE intern working full stack on the MongoDB Cloud Payments team live integrating features affecting over 33,000+ customers.
-
-I'm currently looking for somewhere to go once I graduate where I can learn a lot while building cool stuff and solving complex technical problems with passionate people!
-
-### Professional Summary  
- 
- I have industry experience working with focuses on both fullstack and backend, such as in API design/development and endpoint latency optimization within cloud environments and microservice architectures. I also have personal experience leading and architecting fullstack projects (see my **pinned projects** and my **linkedin** below for more info) and within them have also worked a lot in frontend, including publishing a search component on NPM for MongoDB Skunkworks 2022. Feel free to reach out to me at **joonyoung.lee.dev@gmail.com** for any inquiries or my resumé.
+I'm currently a Duke CS senior. Currently SWE Intern @ Rippling. Incoming SWE @ Palantir.
 
   ### Find me on 
 <div>
