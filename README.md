@@ -5,7 +5,7 @@
 
 ### Currently
  
-I'm currently a Duke CS senior. Currently SWE Intern @ Rippling. Incoming SWE @ Palantir.
+Incoming SWE @ Palantir. Duke CS.
 
   ### Find me on 
 <div>
