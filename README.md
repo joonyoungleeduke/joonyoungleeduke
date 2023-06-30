@@ -5,7 +5,9 @@
 
 ### Currently
  
-Incoming SWE @ Palantir. Duke CS.
+SWE @ Palantir. Duke CS.
+
+All of my contributions nowadays are private.
 
   ### Find me on 
 <div>
